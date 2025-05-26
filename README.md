@@ -52,5 +52,5 @@ A beautiful Flutter weather app that displays current weather conditions and a 5
    
 ## 📲 APK Download
 
-[Download APK here](https://drive.google.com/file/d/1Fk0_qp4AbnJhFCi8tllK-3IhpwPQmTdF/view?usp=sharing)
+[Download APK here](https://drive.google.com/file/d/1fY__3DLnV_PuDZ3ZTATBywg0vqrP6yls/view?usp=sharing)
 )
